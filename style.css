@@ -169,6 +169,10 @@ a:not([class]) {
   position: relative;
 }
 
+.bg-intro{
+    width:100%;
+}    
+
 .div-header{
   display: none;
 }
